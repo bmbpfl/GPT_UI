@@ -5,14 +5,16 @@ Steps are as follows
 
 Install Python Software
 
-  Install Ollama 
+		Install Ollama 
 
-      https://ollama.com/download
+1>        https://ollama.com/download
 
-  To Install Local Models 
+  		To Install Local Models 
 
-	    ollama pull llama3.2:latest
+2>	      ollama pull llama3.2:latest
 
+3>        pip install -r requirements.txt 
+  
 for running the code type 
 
 STREAMLIT RUN GPT_UI.PY
