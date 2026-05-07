@@ -1,0 +1,71 @@
+https://ollama.com/download
+
+ollama commands
+
+  serve       Start Ollama
+  create      Create a model
+  show        Show information for a model
+  run         Run a model
+
+  stop        Stop a running model
+  pull        Pull a model from a registry
+  push        Push a model to a registry
+
+  signin      Sign in to ollama.com
+  signout     Sign out from ollama.com
+
+  list        List models
+  ps          List running models
+  cp          Copy a model
+  rm          Remove a model
+
+  launch      Launch the Ollama menu or an integration
+  help        Help about any command
+
+To Install Local Models 
+
+	ollama pull llama3.2:latest
+
+To Install Repository
+
+	pip install pandas
+
+To Display installed Repository
+
+	pip show pandas
+
+PIP Commands
+
+	Commands:
+
+  install                     Install packages.
+  lock                        Generate a lock file.
+  download                    Download packages.
+  uninstall                   Uninstall packages.
+  freeze                      Output installed packages in requirements format.
+
+  inspect                     Inspect the python environment.
+  list                        List installed packages.
+  show                        Show information about installed packages.
+  check                       Verify installed packages have compatible dependencies.
+
+  config                      Manage local and global configuration.
+  search                      Search PyPI for packages.
+  cache                       Inspect and manage pip's wheel cache.
+  index                       Inspect information available from package indexes.
+
+  wheel                       Build wheels from your requirements.
+  hash                        Compute hashes of package archives.
+  completion                  A helper command used for command completion.
+  debug                       Show information useful for debugging.
+  help                        Show help for commands.
+
+To Install from file
+
+ requirements.txt
+
+		streamlit ollama os psutil subprocess
+
+ pip install -r requirements.txt
+
+
