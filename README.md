@@ -15,6 +15,6 @@ Install Python Software
 
 3>        pip install -r requirements.txt 
   
-for running the code type 
+		For running the code type 
 
-STREAMLIT RUN GPT_UI.PY
+4>  	  STREAMLIT RUN GPT_UI.PY
