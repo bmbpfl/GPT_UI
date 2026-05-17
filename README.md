@@ -20,17 +20,17 @@ Chat GPT similar UI , we can use locally Stored Models
 
 5. 
 
-	To Install Local Models 
+		To Install Local Models 
 
-		ollama pull llama3.2:latest
+			ollama pull llama3.2:latest
 
-	To Install Repository
+		To Install Repository
 
-		pip install pandas
+			pip install pandas
 
-	To Display installed Repository
+		To Display installed Repository
 
-		pip show pandas
+			pip show pandas
 
 6.  
 
@@ -48,9 +48,9 @@ Chat GPT similar UI , we can use locally Stored Models
 	
 		pip install -r requirements.txt
 
-7. STREAMLIT RUN GPT_UI.PY
+7. 		STREAMLIT RUN GPT_UI.PY
 
-    this will execute the python code
+    		this will execute the python code
 
 
  
