@@ -18,7 +18,6 @@ Chat GPT similar UI , we can use locally Stored Models
 4.  
 	https://ollama.com/download
 
-
 5. 
 
 	To Install Local Models 
